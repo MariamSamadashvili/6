@@ -18,6 +18,12 @@
 	float: left;
 	margin-right: 31px;
 }
+.a {
+	font-family: 'Roboto', sans-serif;
+	font-size: 28px;
+	text-transform: uppercase;
+	color: #3D58A6;
+}
 .nav-ul::after {
 	content: '';
 	clear: left;
@@ -46,9 +52,13 @@
 }
 .sec1-p {
 	position: absolute;
-	margin-top: 321px;
+	margin-top: 290px;
 	margin-left: 128px;
 	color: #E6E6E6;
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.2;
 }
 .sec-2div {
 	position: relative;
@@ -62,6 +72,8 @@
 	color: #fff;
 	margin-top: 30px; 
 	margin-left: 98px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
 }
 .box1 {
 	position: absolute;
@@ -92,6 +104,8 @@
 	color: #3D58A6;
 	margin-top: 30px; 
 	margin-left: 98px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
 }
 .smalldiv1 {
 	position: absolute;
@@ -129,6 +143,8 @@
 	margin-left: 14px;
 	margin-top: 14px;
 	color: #333333;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
 }
 .sec-4div {
 	width: 1366px;
@@ -138,11 +154,16 @@
 .h3 {
 	padding-top: 28px;
 	padding-left: 98px;
-	color: #3D58A6;
+	color: #000000;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
 }
 .h4-m {
 	margin-top: 11px; 
 	color: #3D58A6;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	letter-spacing: 0.55px;
 }
 .left-block {
 	width: 570px;
@@ -176,17 +197,25 @@
 	display: inline-block;
 	width: 355px;
 	vertical-align: middle;
+	color: #333333;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	letter-spacing: 0.5px;
 }
 .footer-p1 {
 	float: left;
 	color: #333333;
 	margin: 30px 0px 30px 97px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
 }
 .footer-p2 {
 	float: left;
 	color: #333333;
 	margin-top: 30px;
 	margin-left: 907px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
 }
 body {
 	padding-top: 100px;
